@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SaveMe"
+rootProject.name = "SAVE ME"
 include(":app")
- 
